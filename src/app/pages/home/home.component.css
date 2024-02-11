@@ -1,0 +1,39 @@
+.ht{
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    padding-top:10px ;
+    
+}
+.im{
+    background-color: antiquewhite;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.px-wide{
+    margin-left: 100px;
+   width: 1000px;
+}
+header{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(https://ecommerce-platforms.com/wp-content/uploads/2014/04/12-free-blurred-backgrounds-1549495990.jpg);
+}
+.child{
+    background-color:white;
+    margin-top: 20px;
+    height: 600px;
+    width: 700px;
+    margin-left: 0px;
+    display: inline-block;
+  border: 1px solid black;
+  padding: 1rem 1rem;
+  vertical-align: middle;
+}
+.parent {
+    margin: 1rem;
+    padding: 2rem 2rem;
+    text-align: center;
+  }
